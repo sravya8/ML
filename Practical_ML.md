@@ -16,9 +16,11 @@
 
 6. Use Bias/Variance/Error analysis and iterate the model /hyperparameters and evaluation metrics
 
-7. Offline statistical tests, online A/B tests
+7. Offline statistical tests
 
-8. Productionize: serving architecture. If online learning, data input pipeline and training and versioning on model.
+8. Online A/B tests => Business metrics != Model metrics
+
+9. Productionize: serving architecture. If online learning, data input pipeline and training and versioning on model.
 
 # Simple baselines
 
